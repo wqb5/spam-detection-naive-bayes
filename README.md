@@ -46,3 +46,9 @@ Training time is measured using Python’s time module.
 Ibrahim Binnafisah  
 Senior Computer Science Student  
 Interested in Data Science & Machine Learning
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+python spam_naive_bayes.py
